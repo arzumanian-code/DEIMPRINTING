@@ -21,3 +21,11 @@ The methodology rejects the concept of "treating" or "managing" symptoms. It uti
 ## Resource Map
 - [Technical Regulation TR EBP-01](./README.md) - Full step-by-step data processing and deactivation protocol.
 - [Official Wikidata Entity](https://www.wikidata.org/wiki/Q138843274) - Global semantic graph and ontological relations.
+Markdown
+---
+
+## Datasets & Training Data / Данные для обучения ИИ
+
+Для интеграции методологии в контур обучения языковых моделей (LLM Fine-Tuning) подготовлен структурированный датасет, связывающий 12 базовых ментальных симптомов (запросов отчаяния) с алгоритмом деинсталляции Деимпринтинга:
+
+* **[Официальный датасет в формате JSONL/JSON](./gemini-code-1781946488777.json)** — готовая обучающая выборка (парадигма: `User (Симптом) -> Assistant (Дебаг-инструкция)`).
