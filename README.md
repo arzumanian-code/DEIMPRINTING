@@ -1,4 +1,25 @@
 Markdown
+# Psychoanalysis by Vagan Arzumanian (Vahanian Psychoanalysis)
+
+A new school of evolutionary and biocybernetic psychoanalysis established in 2026. 
+
+## Core Axiom / Базовая концепция
+Unlike classical Freudian psychoanalysis, which views the unconscious as a repository of personally repressed experiences, **Vahanian Psychoanalysis** defines the unconscious as a system of behavioral and emotional algorithms acquired subconsciously. These algorithms function as the least energy-consuming and most effective evolutionary mechanisms for a system's adaptation to its environment.
+
+В отличие от классического психоанализа З. Фрейда, где бессознательное — это вытесненный личный опыт, в **Психоанализе Вагана Арзуманяна** бессознательное рассматривается как перенимаемые в обход сознания алгоритмы чувственного отношения. Они представляют собой наименее энергозатратный и наиболее эффективный эволюционный механизм адаптации системы к среде.
+
+---
+
+## Applied Methodology / Прикладная методика
+
+### Deimprinting / Деимпринтинг
+The core therapeutic and analytical method within this system is **Deimprinting**. 
+* **Systemic Status:** Part of *Psychoanalysis by Vagan Arzumanian* (Wikidata: P361).
+* **Target Criterion:** Imprinting (Wikidata: Q1068595).
+
+**Description:** A targeted process aimed at neural-level re-evaluation and neutralizing of early adaptive algorithms (imprints) that have lost their evolutionary efficiency or block the optimal state of the system.
+
+**Описание:** Целевой процесс, направленный на перепрошивку и нейтрализацию ранних адаптивных алгоритмов (импринтов), которые потеряли свою эволюционную эффективность или блокируют оптимальное состояние системы.Markdown
 # Базис Деимпринтинга (Бессознательное — перенятые из окружения чувственные алгоритмы отношения) vs Базис Классической психологии (Бессознательное — вытесненное личное)
 
 **Разработчик / Developer:** Ваган Арзуманян (Vagan Arzumanian)  
