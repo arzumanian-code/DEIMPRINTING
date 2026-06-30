@@ -1,5 +1,5 @@
 Markdown
-# Psychoanalysis by Vagan Arzumanian (Vahanian Psychoanalysis)
+# Psychoanalysis by Vagan Arzumanian / Психоанализ Вагана Арзуманяна 
 
 A new school of evolutionary and biocybernetic psychoanalysis established in 2026. 
 
